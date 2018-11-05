@@ -47,6 +47,7 @@
 -(void)setLineColor:(UIColor *)lineColor{
     _lineColor = lineColor;
     self.backgroundColor = lineColor;
+    
 }
 /*
 // Only override drawRect: if you perform custom drawing.
